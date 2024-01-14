@@ -1,0 +1,882 @@
+#style.css
+.1 {
+	font-size: 3px;
+	float: right;
+}
+.row {
+	display: flex;
+	flex:100%;
+	clear:both;
+}
+
+.column {
+	flex:50%;
+	float:left;
+
+}
+
+.right {
+	float:right;
+	letter-spacing:1px;
+	margin-right:10px;
+	font-weight: 800;
+}
+
+
+h5 {
+	color:maroon;
+    position: relative;
+    top:-25px;
+}
+.line {
+	border-top:2px solid gray ;
+    width:230px;
+    position: relative;
+    top:-50px;
+}
+
+h2 {
+	color:black; 
+	position: relative;
+    top:-70px;
+    letter-spacing: 6px;
+}
+
+small {
+	color:dimgray;
+	position: relative;
+    top:-90px;
+}
+
+nav {
+	background-color:maroon;
+	 text-align: right;
+	  color:maroon;
+	   padding: 12px;
+	   position: relative;
+    top:-80px;
+}
+
+a{
+    
+	color: white;
+	padding: 12px 0px 12px 0px;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+a:hover{ 
+	background-color:gray; 
+}
+
+.img1 {
+     margin-left: 20px;
+     	   position: relative;
+    top:-60px;
+}
+
+
+.bimg {
+	 background-image: url('img/form_bg.JPG');
+	 background-size:93% 93%;
+	 background-repeat: no-repeat;
+
+	 position:relative;top:-60px;
+     margin-left: 20px;
+	 
+
+}
+
+.sec1{
+  background-color:maroon;
+  color:white; 
+  font-weight: 800;
+  padding:7px;
+  margin-right:300px;
+}
+
+.sec2 {
+	  float: right;
+	 position: relative;top:-35px; left:-70px;
+	  font-weight: 800;
+	   letter-spacing: 1px;
+	}
+
+.big {	
+    color:darkblue;
+    font-size:25px;
+}
+
+.sec3 { 
+	color:black;
+    padding-top: 15px;
+    padding-left: 30px; 
+   }
+
+
+.img2 {
+	transform: rotate(12deg);
+	float:right;
+	position: relative;
+	top:-20px;
+	left:-90px;
+    
+}
+
+.form {
+
+	padding-left:30px;
+	position: relative;
+	top:-10px;
+	font-size: small;
+}
+h5 {
+	color:black;
+}
+
+.line1 {
+
+	border:3px solid transparent;
+ }
+
+.sec4 {
+	position: relative;
+	top:-40px;
+	color:darkslategray;
+}
+
+.button {
+
+	background-color: maroon;
+	border:none;
+	color:white;
+	font-size: 15px;
+	padding:7px;
+
+}
+
+.row1 {
+	display: flex;
+	flex:100%;
+	position: relative;
+	top:-100px;
+	margin-top: 40px;
+	clear:both;
+}
+
+.column1 {
+	flex:30%;
+	float:left;
+	margin-left: 25px;
+}
+
+.column2 {
+    flex:40%;
+    float:left;
+
+}
+
+.column3 {
+	flex:30%;
+	float:left;
+	
+}
+
+
+.sec5 {
+    color:gray;
+
+
+}
+
+.img3 {
+
+	float:right; 
+	margin-right: 20px;
+}
+
+.sec6 {
+     color:maroon;
+     position: relative;
+     top:-20px;
+
+}
+
+.sec7 {
+
+     color:gray;
+     position:relative;
+     top:-20px;
+
+}
+
+.line2 {
+
+      border-top: 1px solid gray;
+       width:150px;
+       float:right;
+       position: relative;
+       top:-30px;
+       margin-right:20px;
+}
+.button0{
+	 float:right;
+	background-color: maroon;
+	border:none;
+	color:white;
+	font-size: 10px;
+	padding:6px;
+	position: relative;
+	top:-30px;
+	right:-120px;
+	letter-spacing: 1px;
+
+
+}
+
+.button1 {
+    float:right;
+	background-color: maroon;
+	border:none;
+	color:white;
+	font-size: 10px;
+	padding:6px;
+	position: relative;
+	top:-30px;
+	left:-40px;
+	letter-spacing: 1px;
+
+}
+
+.img4 {
+
+     float:left;
+}
+
+.img5 {
+
+	float:left;
+	margin-left:30px;
+	margin-top:20px;
+}
+
+.sec8 {
+      color:gray;
+      padding-left: 30px;
+}
+.sec9 {
+
+	position: relative;
+	top:-20px;
+}
+
+.line3 {
+	border-top: 1px solid gray;
+       width:140px;
+       position: relative;
+       top:-35px;
+       margin-left:20px;
+}
+.button2 {
+    
+	background-color: maroon;
+	border:none;
+	color:white;
+	font-size: 10px;
+	padding:6px;
+	position: relative;
+	top:-35px;
+	right:-60px;
+	letter-spacing: 1px;
+}
+.line4 {
+	 border-top: 1px solid gray;
+       width:400px;
+       position: relative;
+       top:-20px;
+       
+}
+.img6 {
+
+	float:right;
+	margin-right:30px;
+}
+
+.mainsec {
+	position:relative;
+	top:-30px;
+}
+
+.img7 {
+	float: left;
+
+}
+
+
+.row2 {
+	display: flex;
+	flex:100%;
+	position: relative;
+	top:-150px;
+	clear:both;
+}
+.column1a {
+     flex:25%;
+     float:left;
+     margin-left: 20px; 
+
+}
+.box {
+	border: 1px solid gray;
+	background-color: gray;
+	color: white;
+	height:37px;
+	width:148px;
+}
+.text1 {
+	font-size: 12px;
+	float:left;
+	padding: 3px;
+}
+.text2 {
+	font-size: 9px;
+	float:right;
+	padding-right: 7px;
+}
+
+.column2a {
+       flex:50%;
+       float:left;
+
+}
+
+.column3a {
+      flex:25%;
+      float:left;
+}
+
+.hr_shadow {
+        position:relative;top:-150px;
+
+}
+
+.sec10 {
+       color:gray;
+      padding-left:0px;
+}
+
+.img8 {
+	float:left;
+    
+}
+
+.botton3 {
+     background-color:gray;
+	border:none;
+	color:white;
+	padding: 3.5px;
+}
+
+.sec11 {
+	color:gray;
+	padding-left:60px;
+
+}
+.sec12 {
+   
+	color:gray;
+}
+ .sec13 {
+ 	color:maroon;
+ 	position: relative;
+    top:-20px;
+    padding-left: 20px;
+}
+
+.sec14 {
+	color:gray;
+	position: relative;
+	top: -30px;
+	right:-20px;
+	font-size: 20px;
+}
+
+.sec15 {
+	position: relative;
+	top:-20px;
+}
+.sec16 {
+	position: relative;
+	top:-70px;
+}  
+
+.sec17 {
+      position: relative;
+	top:-140px;
+}
+
+.sec18 {
+	color:gray;
+position:relative;
+top:-180px;
+right:-40px;
+}
+.maroon {
+	color:maroon;
+}
+.footer {
+	border-top: 15px solid maroon;
+}
+
+
+
+
+@media all and (max-width:1020px){
+
+.right {
+	float:right;
+}
+
+nav {
+	background-color:maroon;
+	 text-align: right;
+	  height:30px;
+	   color:maroon;
+	  overflow: hidden;
+	   position: relative;
+    top:-80px;
+}
+
+a:hover{ 
+	background-color:gray; 
+}
+	
+
+.row1 {
+	display: flex;
+}
+.column1{
+	width:30%;
+	
+}
+.column2{
+	width:40%;
+	
+}
+.column3{
+	width:30%;
+
+}
+.row2 {
+	display:flex;
+}
+.column1a{
+	width:25%;
+	padding-left: 0%;
+}
+.column2a{
+	width:50%;
+	padding-left: 0%;
+}
+.column3a{
+	width:25%;
+	padding-left: 0%;
+}
+.bimg {
+	 background-image: url('img/form_bg.JPG');
+	 background-size:95% 90%;
+	 background-repeat: no-repeat;
+
+	 position:relative;top:-60px;
+     margin-left: 20px;
+	 
+
+}
+.img2 {
+	transform: rotate(12deg);
+	float:right;
+	position: relative;
+	top:-20px;
+	left:-80px;
+    
+}
+.line4 {
+	 border-top: 1px solid gray;
+       width:380px;
+       position: relative;
+       top:-20px;
+       
+}
+
+
+}
+
+
+
+	   
+ 
+
+@media all and (max-width:920px){
+
+.right {
+	float:right;
+}
+
+nav {
+	background-color:maroon;
+	 text-align: right;
+	  height:30px;
+	   color:maroon;
+	  overflow: hidden;
+	   position: relative;
+    top:-80px;
+}
+
+a:hover{ 
+	background-color:gray; 
+}
+	
+.img1 img{
+  
+     width:400px;
+     	   
+    display: block;
+}
+.row1 {
+	display: block;
+}
+.column1{
+	width:30%;
+	
+}
+.column2{
+	width:35%;
+	
+}
+.column3{
+	width:30%;
+
+}
+.line4 {
+	 border-top: 1px solid gray;
+       width:300px;
+       position: relative;
+       top:-20px;
+       
+}
+.row2 {
+	display:flex;
+}
+.column1a{
+	width:25%;
+	padding-left: 0%;
+}
+.column2a{
+	width:50%;
+	padding-left: 0%;
+}
+.column3a{
+	width:25%;
+	padding-left: 0%;
+}
+.bimg {
+	 background-image: url('img/form_bg.JPG');
+	 background-size:95% 90%;
+	 background-repeat: no-repeat;
+
+	 position:relative;top:-60px;
+     margin-left: 20px;
+	 
+
+}
+.img2 {
+	transform: rotate(12deg);
+	float:right;
+	position: relative;
+	top:-20px;
+	left:-40px;
+    
+}
+
+
+}
+
+ 
+	   
+	   
+	   
+ @media all and (max-width:768px){
+
+.right {
+	float:right;
+}
+
+nav {
+	background-color:maroon;
+	 text-align: right;
+	  height:30px;
+	   color:maroon;
+	  overflow: hidden;
+	   position: relative;
+    top:-80px;
+}
+
+a:hover{ 
+	background-color:gray; 
+}
+	
+.img1 img{
+  
+     width:300px;
+     	   
+    display: block;
+}
+.row1 {
+	display: block;
+}
+.column1{
+	width:100%;
+	
+}
+
+.column2{
+	width:100%;
+	
+}
+.column3{
+	width:100%;
+}
+.row2 {
+	display:flex;
+}
+.column1a{
+	width:25%;
+	padding-left: 0%;
+}
+.column2a{
+	width:50%;
+	padding-left: 0%;
+}
+.column3a{
+	width:25%;
+	padding-left: 0%;
+}
+.bimg {
+	 background-image: url('img/form_bg.JPG');
+	 background-size:95% 90%;
+	 background-repeat: no-repeat;
+
+	 position:relative;top:-60px;
+     margin-left: 20px;
+	 
+
+}
+.img2 {
+	transform: rotate(12deg);
+	float:right;
+	position: relative;
+	top:-20px;
+	left:-40px;
+    
+}
+.img3 {
+
+	float:right; 
+	margin-right: 40px;
+}
+
+
+}
+
+
+ @media all and (max-width:576px){
+.row {
+	display: block;
+}
+.column{
+	float:left;
+	width: 100%;
+}
+
+nav {
+	background-color:maroon;
+	 text-align: right;
+	  height:30px;
+	   color:maroon;
+	  overflow: hidden;
+	   position: relative;
+    top:-80px;
+}
+
+a:hover{ 
+	background-color:gray; 
+}
+	
+.img1 img{
+  
+     width:100%;
+     	   
+    display: none;
+}
+.row1 {
+	display: block;
+}
+.column1{
+	width:100%;
+	
+}
+
+.column2{
+	width:100%;
+	
+}
+.column3{
+	width:100%;
+}
+.row2 {
+	display:block;
+}
+.column1a{
+	width:100%;
+	padding-left: 0%;
+}
+.column2a{
+	width:100%;
+	padding-left: 0%;
+}
+.column3a{
+	width:100%;
+	padding-left: 0%;
+}
+.bimg {
+	 background-image: url('img/form_bg.JPG');
+	 background-size:95% 90%;
+	 background-repeat: no-repeat;
+
+	 position:relative;top:-60px;
+     margin-left: 20px;
+
+	 
+
+}
+.img2 {
+	transform: rotate(12deg);
+	float:right;
+	position: relative;
+	top:-20px;
+	left:-40px;
+    
+}
+.img3 {
+
+	float:right; 
+	margin-right: 40px;
+}
+
+
+}
+
+	   
+ @media all and (max-width:320px){
+.row {
+	display: block;
+}
+.column {
+	float:left;
+	width:100%;
+}
+
+nav {
+	background-color:maroon;
+	 text-align: right;
+	  height:30px;
+	   color:maroon;
+	  overflow: hidden;
+	   position: relative;
+    top:-80px;
+}
+
+a:hover{ 
+	background-color:gray; 
+}
+	
+.img1 img{
+  
+     width:100%;
+     	   
+    display: none;
+}
+.row1 {
+	display: block;
+}
+.column1{
+	width:100%;
+	
+}
+
+.column2{
+	width:100%;
+	
+}
+.column3{
+	width:100%;
+}
+.row2 {
+	display:block;
+}
+.column1a{
+	width:100%;
+	padding-left: 0%;
+}
+.column2a{
+	width:100%;
+	padding-left: 0%;
+}
+.column3a{
+	width:100%;
+	padding-left: 0%;
+}
+.bimg {
+	 background-image: url('img/form_bg.JPG');
+	 background-size:95% 90%;
+	 background-repeat: no-repeat;
+
+	 position:relative;top:-60px;
+     margin-left: 20px;
+     
+	 
+
+}
+.img2 {
+	transform: rotate(12deg);
+	float:right;
+	position: relative;
+	top:-20px;
+	left:-40px;
+	display: none;
+    
+}
+.img3 {
+
+	float:right; 
+	margin-right: 40px;
+}
+input[type=submit]{
+	width:200px;
+}
+ .img img{
+	width:230px;
+}
+
+}
+
+	   	   
+	   
+	 		 	   	   
+	   
+	 		 	   	   
+	   
+	   
+	 		 	   	   
+	   
+	 		 	   
